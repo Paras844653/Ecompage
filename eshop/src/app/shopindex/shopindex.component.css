@@ -1,0 +1,20 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color:white;
+    padding: 5px;
+    margin-top: 10px;
+}
+.brand {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.navicons span {
+    margin-right: 10px;
+}
+a {
+    color:white;
+    text-decoration: none;
+}

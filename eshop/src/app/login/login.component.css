@@ -1,0 +1,16 @@
+.container-fluid {
+    border-radius: 25;
+    border: 4px solid #194fe2;
+    padding: 20px;
+    width: 350px;
+    height: 350px;
+    position: none;
+    top: 100px;
+    left: 350px;
+  }
+
+  .navmenu a {
+    margin-right: 20px;
+    font-size: 20px;
+  }
+  
